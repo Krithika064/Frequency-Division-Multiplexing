@@ -117,6 +117,10 @@ subplot(3,2,6); plot(t,d6); title("Demod 6");
 
 
 ## CALCULATION
+![WhatsApp Image 2025-11-27 at 08 47 45_82067d96](https://github.com/user-attachments/assets/b526503f-d45a-491d-8618-087a8289425d)
+![WhatsApp Image 2025-11-27 at 08 47 46_68d74129](https://github.com/user-attachments/assets/2652f079-b700-43a6-b68d-8d3aed6b9cca)
+
+
 
 
 ## RESULT
